@@ -1,4 +1,4 @@
-# BDDA-Top-Down-Approach-Railway System Database_Top Down Approach
+# Railway System Database_Top Down Approach
 This repository contains the entity-relationship diagram (ERD) and schema structure for a Railway System database. The system manages passenger bookings, train details, routes, and payment information.
 
 Features
